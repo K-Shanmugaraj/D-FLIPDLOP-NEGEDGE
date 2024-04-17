@@ -53,6 +53,7 @@ end
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![Screenshot (128)](https://github.com/K-Shanmugaraj/D-FLIPDLOP-NEGEDGE/assets/144870425/50271d3e-bc98-4b95-8f38-be5332f2d8a6)
 
 
 **RESULTS**
